@@ -1,5 +1,5 @@
 ### Project Architecture: 
-![Architecture Diagram](https://github.com/Mockbee/pizza-sales-end-to-end-data-engineering-project/blob/main/Data%20Architecture.png)
+![Architecture Diagram]()
 
 ### About Dataset/API Used:
 This project utilizes a dataset on pizza sales, which can be accessed [here](https://drive.google.com/file/d/1i4aRieq_WDVJDGpqtZq8UW9CH8sCbaBd/view). The dataset was uploaded into Azure Blob Storage to begin the ETL pipeline process.
