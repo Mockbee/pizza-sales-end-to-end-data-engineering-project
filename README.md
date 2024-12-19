@@ -1,3 +1,6 @@
+# Pizza Sales Data Engineering Project
+In this project, we are building a data pipeline using Azure - Data Lake, Data Factory II, Databricks, Synapse.
+
 ### Project Architecture: 
 ![Architecture Diagram](https://github.com/Mockbee/pizza-sales-end-to-end-data-engineering-project/blob/main/Data%20Architecture.png)
 
